@@ -10,7 +10,7 @@ namespace Distance.NoCameraShake
     /// <summary>
     ///     The mod's main class containing its entry point
     /// </summary>
-    [ModEntryPoint("<INSERT MOD UNIQUE ID HERE>")]
+    [ModEntryPoint("No Camera Shake by Blu3")]
     public sealed class Mod : MonoBehaviour
     {
         public static Mod Instance { get; private set; }
